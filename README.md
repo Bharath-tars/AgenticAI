@@ -62,11 +62,11 @@ Building Agentic AI Free Course For Everyone
 Detailed Prerequisites To Start Learning Agentic AI With Free Videos And Materials
 
 # Phidata Docs
-########## Docs url: https://docs.phidata.com/
-########## Models: https://docs.phidata.com/models
-########## Agents: https://docs.phidata.com/agents
-########## Knowledge(External source or domain specific): https://docs.phidata.comj/knowledge
-########## Storage: https://docs.phidata.com/storage (Formats)
+###### Docs url: https://docs.phidata.com/
+###### Models: https://docs.phidata.com/models
+###### Agents: https://docs.phidata.com/agents
+###### Knowledge(External source or domain specific): https://docs.phidata.comj/knowledge
+###### Storage: https://docs.phidata.com/storage (Formats)
 VectorDbs: https://docs.phidata.com/vectordb 
 Chunking: https://docs.phidata.com/chunking 
 Embeddings: https://docs.phidata.com/embeddings 
