@@ -1,5 +1,5 @@
 # AgenticAI
-This repo is solely for study purpose of AgenticAI
+This repo is solely for study purpose of
 AGENTIC AI - Notes by Bharath
 
 # Important points:
