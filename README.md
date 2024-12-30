@@ -36,11 +36,11 @@ Query: Compare tesla and nvdia stock and suggest best one to purchase
 Here each workflow is a separate task and each task is handled by an AI separately. These all work together simultaneously  to achieve the goal and then give the output.
 
 Open source framework 
-AutoGen(Microsoft) -> https://github.com/microsoft/autogen
-LangFlow(No code tool for Agentic AI) -> Dragdrop -> End code will we given -> Later can be deployed - > https://www.langflow.org/
-LangGraph(More complex) -> https://www.langchain.com/langgraph
-PhiData - > https://www.phidata.com/
-CrewAI -> https://www.crewai.com
+###### AutoGen(Microsoft) -> https://github.com/microsoft/autogen
+###### LangFlow(No code tool for Agentic AI) -> Dragdrop -> End code will we given -> Later can be deployed - > https://www.langflow.org/
+###### LangGraph(More complex) -> https://www.langchain.com/langgraph
+###### PhiData - > https://www.phidata.com/
+###### CrewAI -> https://www.crewai.com
 
 # The Influence of AI in 2025: Trends you should not miss
 Agentic AI
@@ -56,10 +56,12 @@ Python
 LangChain 
 
 # Reference Links:
-What is Agentic AI? Important For GEN AI In 2025
-Agentic AI Is The Future- GEN AI Trends In 2025
-Building Agentic AI Free Course For Everyone
-Detailed Prerequisites To Start Learning Agentic AI With Free Videos And Materials
+###### What is Agentic AI? Important For GEN AI In 2025 -> https://youtu.be/xOS0BhhdUbo?si=eiRK95aGk-sp_Hpw
+###### Agentic AI Is The Future- GEN AI Trends In 2025 -> https://youtu.be/9SD95yskEfU?si=DxJLuS3AwkIylf_H
+###### Building Agentic AI Free Course For Everyone -> https://youtu.be/qR3HWsMFfZA?si=PJ0FZllSd5RLU3KB
+###### Detailed Prerequisites To Start Learning Agentic AI With Free Videos And Materials -> https://youtu.be/Qs_j5wRbVr8?si=oKDGRbilnhfgG_v0
+###### Build your own Agentic AI Applciation using PhiData -> https://youtu.be/74SnvbQYgx8?si=-7aHhmGjxZHLWlre
+###### Building Multi Agentic AI RAG using VectorDataBases -> https://youtu.be/4MTtfTZnH5Y?si=q-w_BVZ2joJMfDLy
 
 # Phidata Docs
 ###### Docs url: https://docs.phidata.com/
@@ -67,7 +69,7 @@ Detailed Prerequisites To Start Learning Agentic AI With Free Videos And Materia
 ###### Agents: https://docs.phidata.com/agents
 ###### Knowledge(External source or domain specific): https://docs.phidata.comj/knowledge
 ###### Storage: https://docs.phidata.com/storage (Formats)
-VectorDbs: https://docs.phidata.com/vectordb 
-Chunking: https://docs.phidata.com/chunking 
-Embeddings: https://docs.phidata.com/embeddings 
-Tools: https://docs.phidata.com/tools 
+###### VectorDbs: https://docs.phidata.com/vectordb 
+###### Chunking: https://docs.phidata.com/chunking 
+###### Embeddings: https://docs.phidata.com/embeddings 
+###### Tools: https://docs.phidata.com/tools 
